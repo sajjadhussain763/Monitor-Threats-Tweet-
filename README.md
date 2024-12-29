@@ -1,5 +1,4 @@
 # Monitor-Threats-Tweet-
-<br>
 import tweepy
 import csv
 from textblob import TextBlob  # For sentiment analysis
